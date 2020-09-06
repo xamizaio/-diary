@@ -1,0 +1,90 @@
+body,html{
+    height: 100%;
+    margin: 0;
+}
+
+
+/*style tabs*/
+.tablink{
+    background-color: #555;
+    color: white;
+    float:'left';
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+
+    display: block;
+    margin: 10px auto;
+
+
+
+}
+
+.tablink:hover{
+    background-color: #777;
+
+}
+
+.tabcontent{
+    color: white;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+    width: 26%;
+    margin: 0 auto;
+}
+
+
+body {
+    background-color: black;
+}
+
+img.logo{
+
+    vertical-align: text-top;
+    line-height: 200px;
+    line-height: 200px;
+    display: block;
+    margin: 0px auto;
+
+}
+
+h1.name{
+    color: white;
+
+}
+
+h3.header{
+    color: honeydew;
+    text-align: center;
+    
+}
+
+p.bio{
+    color: whitesmoke;
+    text-align: center;
+
+}
+img.foto{
+    display: block;
+    margin: 0px auto;
+    width: 400px;
+    height: 350px;
+}
+
+h3.hdng{
+    text-align: center;
+}
+
+ul{
+    width: 150px;
+}
+li{
+    margin: 10px;
+}
+ul.list{
+    list-style-position: outside;
+}
